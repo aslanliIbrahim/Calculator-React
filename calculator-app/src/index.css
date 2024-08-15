@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components{
+    .operator{
+        @apply p-2 shadow-current border border-separate text-3xl
+    }
+}

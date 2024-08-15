@@ -5,6 +5,7 @@ module.exports = {
       transparent: "transparent",
       current: "currentColor",
       gray_stone: {
+        very_ligt:"#E6E6E6",
         light: "#78716c",
         DEFAULT: "#44403c",
         dark: "#0c0a09",
